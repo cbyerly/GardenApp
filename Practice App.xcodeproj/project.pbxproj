@@ -21,6 +21,12 @@
 		6B9B713318F70D8000672091 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B9B711518F70D8000672091 /* UIKit.framework */; };
 		6B9B713B18F70D8000672091 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6B9B713918F70D8000672091 /* InfoPlist.strings */; };
 		6B9B713D18F70D8000672091 /* Practice_AppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B9B713C18F70D8000672091 /* Practice_AppTests.m */; };
+		6B9B714818F70D9A00672091 /* myGarden.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B9B714718F70D9A00672091 /* myGarden.m */; };
+		6B9B716018F7362200672091 /* location.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B9B715F18F7362200672091 /* location.m */; };
+		6B9B716318F7551400672091 /* Plant.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B9B716218F7551400672091 /* Plant.m */; };
+		6B9B716618F767A100672091 /* GardenLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B9B716518F767A100672091 /* GardenLocation.m */; };
+		6BC9E49119071FE600CE8265 /* Storyboard Ipad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BC9E49019071FE600CE8265 /* Storyboard Ipad.storyboard */; };
+		6BF18B5D18F8A4A100831BC1 /* PlantData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6BF18B5C18F8A4A100831BC1 /* PlantData.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +59,16 @@
 		6B9B713818F70D8000672091 /* Practice AppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Practice AppTests-Info.plist"; sourceTree = "<group>"; };
 		6B9B713A18F70D8000672091 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6B9B713C18F70D8000672091 /* Practice_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Practice_AppTests.m; sourceTree = "<group>"; };
+		6B9B714618F70D9A00672091 /* myGarden.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = myGarden.h; path = ../myGarden.h; sourceTree = "<group>"; };
+		6B9B714718F70D9A00672091 /* myGarden.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = myGarden.m; path = ../myGarden.m; sourceTree = "<group>"; };
+		6B9B715E18F7362200672091 /* location.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = location.h; sourceTree = "<group>"; };
+		6B9B715F18F7362200672091 /* location.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = location.m; sourceTree = "<group>"; };
+		6B9B716118F7551400672091 /* Plant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Plant.h; sourceTree = "<group>"; };
+		6B9B716218F7551400672091 /* Plant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Plant.m; sourceTree = "<group>"; };
+		6B9B716418F767A100672091 /* GardenLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GardenLocation.h; sourceTree = "<group>"; };
+		6B9B716518F767A100672091 /* GardenLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GardenLocation.m; sourceTree = "<group>"; };
+		6BC9E49019071FE600CE8265 /* Storyboard Ipad.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = "Storyboard Ipad.storyboard"; path = "../Storyboard Ipad.storyboard"; sourceTree = "<group>"; };
+		6BF18B5C18F8A4A100831BC1 /* PlantData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PlantData.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,13 +128,23 @@
 		6B9B711718F70D8000672091 /* Practice App */ = {
 			isa = PBXGroup;
 			children = (
+				6B9B714618F70D9A00672091 /* myGarden.h */,
+				6B9B714718F70D9A00672091 /* myGarden.m */,
 				6B9B712018F70D8000672091 /* AppDelegate.h */,
 				6B9B712118F70D8000672091 /* AppDelegate.m */,
 				6B9B712318F70D8000672091 /* Main.storyboard */,
+				6BC9E49019071FE600CE8265 /* Storyboard Ipad.storyboard */,
 				6B9B712618F70D8000672091 /* ViewController.h */,
 				6B9B712718F70D8000672091 /* ViewController.m */,
 				6B9B712918F70D8000672091 /* Images.xcassets */,
 				6B9B711818F70D8000672091 /* Supporting Files */,
+				6B9B715E18F7362200672091 /* location.h */,
+				6B9B715F18F7362200672091 /* location.m */,
+				6B9B716118F7551400672091 /* Plant.h */,
+				6B9B716218F7551400672091 /* Plant.m */,
+				6B9B716418F767A100672091 /* GardenLocation.h */,
+				6B9B716518F767A100672091 /* GardenLocation.m */,
+				6BF18B5C18F8A4A100831BC1 /* PlantData.plist */,
 			);
 			path = "Practice App";
 			sourceTree = "<group>";
@@ -228,8 +254,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BC9E49119071FE600CE8265 /* Storyboard Ipad.storyboard in Resources */,
 				6B9B712A18F70D8000672091 /* Images.xcassets in Resources */,
 				6B9B711C18F70D8000672091 /* InfoPlist.strings in Resources */,
+				6BF18B5D18F8A4A100831BC1 /* PlantData.plist in Resources */,
 				6B9B712518F70D8000672091 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -249,9 +277,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B9B716318F7551400672091 /* Plant.m in Sources */,
+				6B9B714818F70D9A00672091 /* myGarden.m in Sources */,
+				6B9B716618F767A100672091 /* GardenLocation.m in Sources */,
 				6B9B712818F70D8000672091 /* ViewController.m in Sources */,
 				6B9B712218F70D8000672091 /* AppDelegate.m in Sources */,
 				6B9B711E18F70D8000672091 /* main.m in Sources */,
+				6B9B716018F7362200672091 /* location.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -379,7 +411,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Practice App/Practice App-Prefix.pch";
 				INFOPLIST_FILE = "Practice App/Practice App-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -392,7 +426,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Practice App/Practice App-Prefix.pch";
 				INFOPLIST_FILE = "Practice App/Practice App-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -456,6 +492,7 @@
 				6B9B714218F70D8000672091 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B9B714318F70D8000672091 /* Build configuration list for PBXNativeTarget "Practice AppTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +501,7 @@
 				6B9B714518F70D8000672091 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

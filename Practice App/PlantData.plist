@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Pimento Pepper</key>
+	<dict>
+		<key>Germination time (days)</key>
+		<integer>14</integer>
+		<key>Spacing (inches)</key>
+		<integer>12</integer>
+		<key>Planting Depth (inches)</key>
+		<string>1/4</string>
+		<key>Maximum Growth Temp</key>
+		<integer>85</integer>
+		<key>Maximum Germination Temp</key>
+		<integer>95</integer>
+		<key>Support Structure</key>
+		<string>stake if necessary</string>
+		<key>Minimum Sunlight Hours</key>
+		<integer>6</integer>
+		<key>Sun exposure</key>
+		<string>full</string>
+		<key>Fertilizer Amount</key>
+		<string>medium</string>
+		<key>Fertilizer Time</key>
+		<string>2-3 times per season</string>
+		<key>pH</key>
+		<string>5.5-7.0</string>
+		<key>Minimum Growth Temp</key>
+		<integer>70</integer>
+		<key>Minimum Germination Temp</key>
+		<integer>65</integer>
+		<key>Plant Growth Time</key>
+		<integer>75</integer>
+		<key>Weekly Water Amount</key>
+		<integer>2</integer>
+	</dict>
+	<key>Jalapeno Pepper</key>
+	<dict>
+		<key>Germination time (days)</key>
+		<integer>14</integer>
+		<key>Spacing (inches)</key>
+		<integer>12</integer>
+		<key>Planting Depth (inches)</key>
+		<string>1/4</string>
+		<key>Maximum Growth Temp</key>
+		<integer>85</integer>
+		<key>Maximum Germination Temp</key>
+		<integer>95</integer>
+		<key>Support Structure</key>
+		<string>stake if necessary</string>
+		<key>Minimum Sunlight Hours</key>
+		<integer>6</integer>
+		<key>Sun exposure</key>
+		<string>full</string>
+		<key>Fertilizer Amount</key>
+		<string>medium</string>
+		<key>Fertilizer Time</key>
+		<string>2-3 times per season</string>
+		<key>pH</key>
+		<string>5.5-7.0</string>
+		<key>Minimum Growth Temp</key>
+		<integer>70</integer>
+		<key>Minimum Germination Temp</key>
+		<integer>65</integer>
+		<key>Plant Growth Time</key>
+		<integer>75</integer>
+		<key>Weekly Water Amount</key>
+		<integer>2</integer>
+	</dict>
+	<key>Green Bell Pepper</key>
+	<dict>
+		<key>Germination time (days)</key>
+		<integer>14</integer>
+		<key>Spacing (inches)</key>
+		<integer>12</integer>
+		<key>Planting Depth (inches)</key>
+		<string>1/4</string>
+		<key>Maximum Growth Temp</key>
+		<integer>85</integer>
+		<key>Maximum Germination Temp</key>
+		<integer>95</integer>
+		<key>Support Structure</key>
+		<string>stake if necessary</string>
+		<key>Minimum Sunlight Hours</key>
+		<integer>6</integer>
+		<key>Sun exposure</key>
+		<string>full</string>
+		<key>Fertilizer Amount</key>
+		<string>medium</string>
+		<key>Fertilizer Time</key>
+		<string>2-3 times per season</string>
+		<key>pH</key>
+		<string>5.5-7.0</string>
+		<key>Minimum Growth Temp</key>
+		<integer>70</integer>
+		<key>Minimum Germination Temp</key>
+		<integer>65</integer>
+		<key>Plant Growth Time</key>
+		<integer>75</integer>
+		<key>Weekly Water Amount</key>
+		<integer>2</integer>
+	</dict>
+	<key>Better Boy Tomato</key>
+	<dict>
+		<key>Germination time (days)</key>
+		<integer>7</integer>
+		<key>Spacing (inches)</key>
+		<integer>24</integer>
+		<key>Planting Depth (inches)</key>
+		<string>1-2</string>
+		<key>Maximum Growth Temp</key>
+		<integer>75</integer>
+		<key>Maximum Germination Temp</key>
+		<integer>85</integer>
+		<key>Support Structure</key>
+		<string>cage or stake</string>
+		<key>Minimun Sunlight Hours</key>
+		<integer>6</integer>
+		<key>Sun exposure</key>
+		<string>full</string>
+		<key>Fertilizer Amount</key>
+		<string>light</string>
+		<key>Fertilizer Time</key>
+		<string>2-3 weeks</string>
+		<key>pH</key>
+		<string>5.5-6.5</string>
+		<key>Minimum Growth Temp</key>
+		<integer>70</integer>
+		<key>Minimum Germination Temp</key>
+		<integer>60</integer>
+		<key>Plant Growth Time</key>
+		<integer>75</integer>
+		<key>Weekly Water Amount</key>
+		<integer>1</integer>
+	</dict>
+	<key>Big Boy Tomato</key>
+	<dict>
+		<key>Germination time (days)</key>
+		<integer>7</integer>
+		<key>Spacing (inches)</key>
+		<integer>24</integer>
+		<key>Planting Depth (inches)</key>
+		<string>1-2</string>
+		<key>Maximum Growth Temp</key>
+		<integer>75</integer>
+		<key>Maximum Germination Temp</key>
+		<integer>85</integer>
+		<key>Support Structure</key>
+		<string>cage or stake</string>
+		<key>Minimun Sunlight Hours</key>
+		<integer>6</integer>
+		<key>Sun exposure</key>
+		<string>full</string>
+		<key>Fertilizer Amount</key>
+		<string>light</string>
+		<key>Fertilizer Time</key>
+		<string>2-3 weeks</string>
+		<key>pH</key>
+		<string>5.5-6.5</string>
+		<key>Minimum Growth Temp</key>
+		<integer>70</integer>
+		<key>Minimum Germination Temp</key>
+		<integer>60</integer>
+		<key>Plant Growth Time</key>
+		<integer>78</integer>
+		<key>Weekly Water Amount</key>
+		<integer>1</integer>
+	</dict>
+	<key>Beefeater Tomato</key>
+	<dict>
+		<key>Germination time (days)</key>
+		<integer>7</integer>
+		<key>Spacing (inches)</key>
+		<integer>24</integer>
+		<key>Planting Depth (inches)</key>
+		<string>1-2</string>
+		<key>Maximum Growth Temp</key>
+		<integer>75</integer>
+		<key>Maximum Germination Temp</key>
+		<integer>85</integer>
+		<key>Support Structure</key>
+		<string>cage or stake</string>
+		<key>Minimun Sunlight Hours</key>
+		<integer>6</integer>
+		<key>Sun exposure</key>
+		<string>full</string>
+		<key>Fertilizer Amount</key>
+		<string>light</string>
+		<key>Fertilizer Time</key>
+		<string>2-3 weeks</string>
+		<key>pH</key>
+		<string>5.5-6.5</string>
+		<key>Minimum Growth Temp</key>
+		<integer>70</integer>
+		<key>Minimum Germination Temp</key>
+		<integer>60</integer>
+		<key>Plant Growth Time</key>
+		<integer>75</integer>
+		<key>Weekly Water Amount</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

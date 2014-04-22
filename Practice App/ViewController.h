@@ -9,5 +9,15 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (nonatomic,strong) NSArray *myGarden;
+@property (nonatomic,strong) NSArray *plantName;
+@property (nonatomic,strong) NSArray *quantity;
+@property (nonatomic,strong) NSArray *location;
+@property (nonatomic,strong) NSArray *gardenLocation;
+
+
+
+@property (nonatomic, strong) NSDictionary *availablePlants;
+
 
 @end
